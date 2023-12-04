@@ -1,0 +1,13 @@
+Introduction: Start by introducing the concept of benchmarking and why it is important to benchmark a PC. Explain what will be covered during the workshop.
+
+System Information: Teach the participants how to gather information about their PC's hardware, such as the processor, graphics card, memory, and storage.
+
+Download benchmarking software: Recommend some popular benchmarking software such as 3DMark, PCMark, and Cinebench. Explain how to download and install the software on the PC.
+
+Run benchmarks: Demonstrate how to run the benchmarks on the PC and interpret the results. Explain the scores and how to compare them to other PCs.
+
+System tuning: Show how to optimize the PC for better performance by making changes to the system settings and updating drivers.
+
+Discussion and Q&A: Encourage the participants to ask questions and discuss their experiences with benchmarking their PCs.
+
+Conclusion: Summarize the key points of the workshop and emphasize the importance of benchmarking to ensure a PC is running optimally.
